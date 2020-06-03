@@ -1,3 +1,3 @@
 def Dog 
-  attr_writer
+  attr_writer :name
 end 
