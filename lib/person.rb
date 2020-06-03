@@ -1,3 +1,3 @@
 class Person 
-  attr_writer :name 
+  attr_accessor :name 
 end 
