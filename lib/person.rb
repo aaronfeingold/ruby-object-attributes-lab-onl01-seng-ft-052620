@@ -1,4 +1,3 @@
 class Person 
-  attr_accessor :name 
-  attr_writer :job 
+  attr_accessor :name, :job 
 end 
